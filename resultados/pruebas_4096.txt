@@ -1,0 +1,6 @@
+VCD info: dumpfile resultados/combinacional.vcd opened for output.
+----------------------------
+PRUEBAS: 4096
+ERRORES: 0
+EXITO: 4096 PRUEBAS APROBADAS
+tb/tb_top_20240700.v:126: $finish called at 40960000 (1ps)
