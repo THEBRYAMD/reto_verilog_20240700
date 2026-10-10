@@ -9,7 +9,7 @@ module result_register (
 
     always @(posedge clk or posedge rst) begin
 
-        // Reset asincrono, activo en 1
+        // se resetea a 0 el registro y la bandera
         if (rst) begin
             Q <= 4'b0000;
             flag_q <= 1'b0;
